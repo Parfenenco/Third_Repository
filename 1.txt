@@ -1,2 +1,3 @@
 This is the first file in 3-rd repository
-another line from user1
+line from user2
+
